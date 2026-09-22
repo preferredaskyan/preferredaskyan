@@ -14,3 +14,10 @@
     width="700"
   />
 </p>
+
+<p align="center">
+  <img 
+    src="Untitled147_20260922104624.png" 
+    width="295" 
+  />
+</p>
