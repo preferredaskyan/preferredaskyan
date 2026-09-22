@@ -1,4 +1,4 @@
-# me n sorb🤯
+## me n sorb
 
 <p align="center">
   <img
@@ -7,7 +7,7 @@
   />
 </p>
 
-# xxrainbowgirlxx 😍
+## xxrainbowgirlxx 
 <p align="center">
   <img
     src="https://files.catbox.moe/uqvs2f.jpg"
