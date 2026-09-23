@@ -1,4 +1,6 @@
-## me n sorb
+gallery
+
+### me n sorb
 
 <p align="center">
   <img
@@ -7,7 +9,7 @@
   />
 </p>
 
-## xxrainbowgirlxx this was me vs sorb
+### xxrainbowgirlxx 😳
 <p align="center">
   <img
     src="https://files.catbox.moe/uqvs2f.jpg"
