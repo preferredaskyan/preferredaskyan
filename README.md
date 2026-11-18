@@ -3,6 +3,8 @@
 <details>
 <summary>whatsup catsup ketsup</summary>
 
+
+
 $$\color{#F28EB4}\textsf{Kyanㅤ/ㅤSaintㅤ.ㅤHeㅤ/ㅤAnyㅤ((ㅤNoㅤFemㅤPrnsㅤ))}$$
 
 $$\color{#C4E538}\textsf{wipp also flw @sorbrtflakesㅤcuz she help code😘😘😍ㅤ}$$
@@ -10,11 +12,6 @@ $$\color{#C4E538}\textsf{wipp also flw @sorbrtflakesㅤcuz she help code😘😘
 $$\color{#74B9FF}\textsf{ge tout}$$
 
 </details>
-
-</div>
-<div align="center">
-
-<img src="./bassie.jpg" width="200" alt="bassie and bobette" />
 
 </div>
 
