@@ -1,18 +1,20 @@
-gallery
+<div align="center">
 
-### me n sorb
+<details>
+  <summary>777</summary>
 
-<p align="center">
-  <img
-    src="https://files.catbox.moe/i9g2ku.jpg"
-    width="210"
-  />
-</p>
+  <br>
 
-### xxrainbowgirlxx 😳
-<p align="center">
-  <img
-    src="https://files.catbox.moe/uqvs2f.jpg"
-    width="700"
-  />
-</p>
+  $\color{#F28EB4}{\textsf{ggggggkggkgkgkg}
+
+  <br>
+
+  (insert)
+
+  <br>
+
+  (insert)
+
+</details>
+
+</div>
