@@ -1,19 +1,13 @@
 <div align="center">
 
 <details>
-  <summary>stop</summary>
+<summary>wip helpme out</summary>
 
-  <br>
+$$\color{#F28EB4}\textsf{thankyu for coding po sorbt 😍😍}$$
 
-  omg sorbeyt tankyu fkr le code😍😍👍👍👍👍
+$$\color{#C4E538}\textsf{this a wip}$$
 
-  <br>
-
-  omg stop wip
-
-  <br>
-
-  google help me out
+$$\color{#74B9FF}\textsf{ge tout}$$
 
 </details>
 
