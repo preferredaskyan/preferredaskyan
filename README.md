@@ -1,19 +1,23 @@
 <div align="center">
 
 <details>
-  <summary>777</summary>
+  <summary>
+    <span style="color: #F28EB4;">wip helpme out</span>
+  </summary>
 
   <br>
 
-  help me
+  <span style="color: #ffffff;">thankyu for coding po sorbt😘😍</span>
 
   <br>
 
-  wip
+<span style="color: #ffffff;">this a wip</span>
 
-  <br>
+<br>
 
-  wipwopwpp
+<span style="color: #ffffff;">ge tout</span>
+
+<br>
 
 </details>
 
