@@ -1,19 +1,20 @@
 <div align="center">
 
-  <details>
-    <summary>wip helpme out</summary>
+<details>
+  <summary>stop</summary>
 
-    <br>
+  <br>
 
-    <!-- Bubblegum Pink (#F28EB4) -->
-    $$\color{#F28EB4}\textsf{thankyu for coding po sorbt 😍😍}$$
+  omg sorbeyt tankyu fkr le code😍😍👍👍👍👍
 
-    <!-- Bright Lime Green (#C4E538) -->
-    $$\color{#C4E538}\textsf{this a wip}$$
+  <br>
 
-    <!-- Sky Blue (#74B9FF) -->
-    $$\color{#74B9FF}\textsf{ge tout}$$
+  omg stop wip
 
-  </details>
+  <br>
+
+  google help me out
+
+</details>
 
 </div>
