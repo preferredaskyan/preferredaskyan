@@ -1,24 +1,19 @@
 <div align="center">
 
-<details>
-  <summary>
-    <span style="color: #ffffff;">wip helpme out</span>
-  </summary>
+  <details>
+    <summary>wip helpme out</summary>
 
-  <br>
+    <br>
 
-  <span style="color: #F28EB4;">thankyu for coding po sorbt😘😍</span>
+    <!-- Bubblegum Pink (#F28EB4) -->
+    $$\color{#F28EB4}\textsf{thankyu for coding po sorbt 😍😍}$$
 
-  <br>
+    <!-- Bright Lime Green (#C4E538) -->
+    $$\color{#C4E538}\textsf{this a wip}$$
 
-<span style="color: #ffffff;">this a wip</span>
+    <!-- Sky Blue (#74B9FF) -->
+    $$\color{#74B9FF}\textsf{ge tout}$$
 
-<br>
-
-<span style="color: #ffffff;">ge tout</span>
-
-<br>
-
-</details>
+  </details>
 
 </div>
