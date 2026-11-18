@@ -2,12 +2,12 @@
 
 <details>
   <summary>
-    <span style="color: #F28EB4;">wip helpme out</span>
+    <span style="color: #ffffff;">wip helpme out</span>
   </summary>
 
   <br>
 
-  <span style="color: #ffffff;">thankyu for coding po sorbt😘😍</span>
+  <span style="color: #F28EB4;">thankyu for coding po sorbt😘😍</span>
 
   <br>
 
