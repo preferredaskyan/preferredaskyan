@@ -3,7 +3,7 @@
 <details>
 <summary>whatsup catsup ketsup</summary>
 
-$$\color{#F28EB4}\textsf{KyanㅤㅤㆍㅤㅤSaintㅤ,ㅤHeㅤ/ㅤAnyㅤ/ㅤNoㅤFemㅤPrns}$$
+$$\color{#F28EB4}\textsf{Kyanㅤ/ㅤSaintㅤ.ㅤHeㅤ/ㅤAnyㅤ((ㅤNoㅤFemㅤPrnsㅤ))}$$
 
 $$\color{#C4E538}\textsf{wipp also flw @sorbrtflakesㅤcuz she help code😘😘😍ㅤ}$$
 
