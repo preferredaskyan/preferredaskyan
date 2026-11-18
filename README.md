@@ -14,7 +14,7 @@ $$\color{#74B9FF}\textsf{ge tout}$$
 </div>
 <div align="center">
 
-<img src="./bassie-bobette.png" width="200" alt="bassie and bobette" />
+<img src="./bassie.jpg" width="200" alt="bassie and bobette" />
 
 </div>
 
