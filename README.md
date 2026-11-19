@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://files.catbox.moe/r7786r.gif" width="200">
+![gif](https://files.catbox.moe/r7786r.gif)
 
-<br><br>
+<br>
 
 <details>
 <summary>whatsup catsup ketsup</summary>
