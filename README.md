@@ -6,7 +6,7 @@
 $$\color{#E8F8A6}\textsf{this is for ponytown! i preferred as kyan,}$$
 $$\color{#D6F072}\textsf{nicknames are okay! please use he/any}$$
 $$\color{#C4E538}\textsf{but no she/her! i am a MINOR,}$$
-$$\color{#A5D86E}\textsf{weirdos dni brah}$$
+$$\color{#A5D86E}\textsf{weirdos dni.}$$
 
 <br>
 
