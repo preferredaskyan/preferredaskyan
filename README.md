@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="r7786r.gif" alt="gif" />
-</p>
-
 <details align="center">
 <summary>whatsup catsup ketsup</summary>
 
