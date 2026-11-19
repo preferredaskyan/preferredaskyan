@@ -1,6 +1,10 @@
 <details align="center">
-<summary>did you see the moon?</summary>
-
+<summary>little garden</summary>
+  
+<p align="center">
+  <img src="your-bassie.gif" width="220" alt="Bassie" />
+</p>
+  
 <br>
 
 $$\color{#E8F8A6}\textsf{this is for ponytown! i preferred as kyan,}$$
