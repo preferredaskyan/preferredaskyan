@@ -23,3 +23,5 @@ $$\color{#FFB3D9}\textsf{with @sorbetflakes. will open if someone is talking to 
 $$\color{#F28EC2}\textsf{...never copy someone's hard work, not cool...}$$
 
 </details>
+
+note: why can't i see gifs bro 😭
