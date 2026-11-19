@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="bassie-sticker.svg" width="240" alt="Bassie Sticker" />
+  <img src="bassie-sticker.svg" width="240" />
 </p>
 
 
