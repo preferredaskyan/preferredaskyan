@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="your-bassie.gif" width="220" alt="Bassie" />
+  <img src="bassie-sticker.svg" width="240" alt="Bassie Sticker" />
 </p>
+
 
 <details align="center">
 <summary>little garden</summary>
