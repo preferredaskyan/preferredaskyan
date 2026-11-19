@@ -1,15 +1,17 @@
 <div align="center">
 
-![gif](https://files.catbox.moe/r7786r.gif)
+<img src="https://files.catbox.moe/r7786r.gif" alt="gif" />
 
-<br>
+<br><br>
 
 <details>
 <summary>whatsup catsup ketsup</summary>
 
-$$\color{#F28EB4}\textsf{Kyanㅤ/ㅤSaintㅤ.ㅤHeㅤ/ㅤAnyㅤ((ㅤNoㅤFemㅤPrnsㅤ))}$$
+<br>
 
-$$\color{#C4E538}\textsf{wipp also flw @sorbrtflakesㅤcuz she help code😘😘😍ㅤ}$$
+$$\color{#F28EB4}\textsf{Kyan / Saint . He / Any (( No Fem Prns ))}$$
+
+$$\color{#C4E538}\textsf{wipp also flw @sorbrtflakes cuz she help code }😘😘😍$$
 
 $$\color{#74B9FF}\textsf{ge tout}$$
 
