@@ -31,3 +31,4 @@ $$\color{#68707A}\textsf{...never copy someone's hard work, not cool...}$$
 
 
 note: yep github is indeed coderotted i can't see my gifs yep yep yep
+note2: omg labyu ma soebetflak thank for code😍😍👑
