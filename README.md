@@ -3,9 +3,9 @@
 
 <br>
 
-$$\color{#E8F8A6}\textsf{this is for ponytown. i preferred as kyan,}$$
-$$\color{#D6F072}\textsf{nicknames are fine and please use male pronouns on me.}$$
-$$\color{#C4E538}\textsf{i'm a minor and weirdos please don't interact with me.}$$
+$$\color{#FFFFFF}\textsf{this is for ponytown. i preferred as kyan,}$$
+$$\color{#E8ECEF}\textsf{nicknames are fine and please use male pronouns on me.}$$
+$$\color{#D0D7DE}\textsf{i'm a minor and weirdos please don't interact with me.}$$
 
 <br>
 
@@ -18,9 +18,9 @@ $$\color{#2E69B2}\textsf{and a marvin the martian pony!}$$
 
 <br>
 
-$$\color{#D66894}\textsf{public chats are off, i chat in the party}$$
-$$\color{#C45582}\textsf{with @sorbetflakes. will open if someone is talking to me}$$
-$$\color{#B84373}\textsf{...never copy someone's hard work, not cool...}$$
+$$\color{#A1A8B0}\textsf{public chats are off, i chat in the party}$$
+$$\color{#848D97}\textsf{with @sorbetflakes. will open if someone is talking to me}$$
+$$\color{#68707A}\textsf{...never copy someone's hard work, not cool...}$$
 
 </details>
 
