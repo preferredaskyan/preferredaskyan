@@ -25,4 +25,4 @@ $$\color{#B84373}\textsf{...never copy someone's hard work, not cool...}$$
 </details>
 
 
-note: why can't i see gifs bro 😭
+note: yep github is indeed coderotted i can't see my gifs yep yep yep
