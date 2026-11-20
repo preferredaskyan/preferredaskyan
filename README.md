@@ -1,7 +1,12 @@
 <details align="center">
-  <summary>suchㅤstrengthㅤinㅤaㅤsingleㅤfeather!</summary>
+  <summary>MidnightTragedy</summary>
 
 <br>
+
+$$\color{#FFFFFF}\textsf{Then steps the moon, all wrapped in starry blue, A gentle}$$
+$$\color{#FFFFFF}\textsf{hush where heavy shadows rest.}$$
+$$\color{#FFFFFF}\textsf{He brings the night sky just to share with two,}$$
+$$\color{#FFFFFF}\textsf{And finds a peaceful warmth within his chest.}$$
 
 $$\color{#FFFFFF}\textsf{this is for ponytown. i preferred as kyan,}$$
 $$\color{#E8ECEF}\textsf{nicknames are fine and please use male pronouns on me.}$$
