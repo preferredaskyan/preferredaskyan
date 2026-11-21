@@ -31,6 +31,3 @@ $$\color{#68707A}\textsf{...never copy someone's hard work, not cool...}$$
 
 
 note: yep github is indeed coderotted i can't see my gifs yep yep yep
-<p align="center">
-  <img src="images/gitatina.png" alt="Gitatina" width="400">
-</p>
