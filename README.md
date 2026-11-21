@@ -30,4 +30,4 @@ $$\color{#68707A}\textsf{...never copy someone's hard work, not cool...}$$
 </details>
 
 
-note: yep github is indeed coderotted i can't see my gifs yep yep yep
+note: yep github is indeed coderotted i can't see my gifs and images code 404 yep yep yep
