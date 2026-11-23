@@ -18,7 +18,7 @@ $$\color{#A8D4FF}\textsf{don't hit me with random items because}$$
 $$\color{#8EC6FF}\textsf{that's not cool dude! you can find at the club, dandy's}$$
 $$\color{#74B9FF}\textsf{world area near spawn, or}$$
 $$\color{#5A9EE8}\textsf{I could be with @sorbetflakes near bakery}$$
-$$\color{#4383CE}\textsf{at the bottom. she has a roadrunner}$$
+$$\color{#4383CE}\textsf{or any spots. she has a roadrunner}$$
 $$\color{#2E69B2}\textsf{and a marvin the martian pony.}$$
 
 <br>
