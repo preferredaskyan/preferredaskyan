@@ -30,4 +30,6 @@ $$\color{#68707A}\textsf{...never copy someone's hard work, not cool...}$$
 </details>
 
 
-note: yep github is indeed coderotted i can't see my gifs and images code 404 yep yep yep
+<div align="center">
+  <img src="path/to/your-image.png" alt="Mango Mustard Trollface Banner" width="100%" />
+</div>
