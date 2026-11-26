@@ -31,5 +31,10 @@ $$\color{#68707A}\textsf{...never copy someone's hard work, not cool...}$$
 
 
 <div align="center">
-  <img src="https://catbox.moe" width="100%" alt="Banner" />
+
+  
+  <h1>will upd more soon</h1>
+  <p>🥭😈🌭</p>
+
 </div>
+
