@@ -31,5 +31,5 @@ $$\color{#68707A}\textsf{...never copy someone's hard work, not cool...}$$
 
 
 <div align="center">
-  <img src="path/to/your-image.png" alt="Mango Mustard Trollface Banner" width="100%" />
+  <img src="https://catbox.moe" width="100%" alt="Banner" />
 </div>
