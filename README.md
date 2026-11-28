@@ -25,16 +25,14 @@ $$\color{#2E69B2}\textsf{and a marvin the martian pony.}$$
 
 $$\color{#A1A8B0}\textsf{public chats are off, i chat in the party}$$
 $$\color{#848D97}\textsf{with @sorbetflakes. will open if someone is talking to me}$$
-$$\color{#68707A}\textsf{...never copy someone's hard work, not cool...}$$
+$$\color{#68707A}\textsf{thank you for reading!}$$
 
 </details>
 
 
 <div align="center">
 
-  
-  <h1>will upd more soon</h1>
-  <p>🥭😈🌭</p>
+  <p>🥭😈🌭boi 67 mang</p>
 
 </div>
 
